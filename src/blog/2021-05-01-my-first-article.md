@@ -8,7 +8,6 @@ author: Kevin Powell
 date: 2021-05-01
 tags:
   - post
-  - featured
 image: /assets/blog/img_0031.jpeg
 imageAlt: This is a test
 ---
